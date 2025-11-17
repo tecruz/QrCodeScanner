@@ -5,7 +5,7 @@ import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 
 class QRScannerViewModel : ViewModel() {
-    private val _qrCodeData = MutableStateFlow<String?>("")
+    private val _qrCodeData = MutableStateFlow<String?>(null)
     val qrCodeData: StateFlow<String?> = _qrCodeData
 
     fun onQrCodeScanned(data: String) {
