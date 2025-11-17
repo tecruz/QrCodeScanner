@@ -1,14 +1,14 @@
 # QR Code Scanner
 
 [![Android CI](https://github.com/tecruz/QrCodeScanner/actions/workflows/android-ci.yml/badge.svg)](https://github.com/tecruz/QrCodeScanner/actions/workflows/android-ci.yml)
-[![Codecove](https://codecov.io/gh/tecruz/QrCodeScanner/graph/badge.svg?token=YOUR_CODECOV_TOKEN)](https://codecov.io/gh/tecruz/QrCodeScanner)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=tecruz_QrCodeScanner&metric=alert_status&token=7c8d1859b931fd8dc71226a291c2f02cbc5cef78)](https://sonarcloud.io/summary/new_code?id=tecruz_QrCodeScanner)
+[![codecov](https://codecov.io/gh/tecruz/QrCodeScanner/graph/badge.svg?token=oiPuzwlvJN)](https://codecov.io/gh/tecruz/QrCodeScanner)
 
 A simple QR code scanner app for Android, built with Kotlin and Jetpack Compose.
 
 ## Screenshot
 
-| ![Screenshot 1](art/screenshot-1.png) | ![Screenshot 2](art/screenshot-2.png) |
-|---|---|
+<img width="230" height="510" alt="Captura de ecrã 2025-11-17 121738" src="https://github.com/user-attachments/assets/6967c0cc-7ecc-4957-8d6e-4664a67569fd" />
 
 ## Features
 
