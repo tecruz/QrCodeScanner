@@ -100,7 +100,8 @@ tasks.register<JacocoReport>("jacocoTestReport") {
         "**/databinding/*",
         "**/DataBinderMapperImpl.class",
         "**/*_Factory.class",
-        "**/*_Provide.class"
+        "**/*_Provide.class",
+        "**/theme/*"
     )
 
     classDirectories.setFrom(
