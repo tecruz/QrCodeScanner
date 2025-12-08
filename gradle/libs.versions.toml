@@ -12,7 +12,7 @@ lifecycleRuntimeKtx = "2.10.0"
 activityCompose = "1.12.1"
 composeBom = "2025.12.00"
 kotlinxCoroutinesTest = "1.10.2"
-mockk = "1.14.6"
+mockk = "1.14.7"
 rules = "1.7.0"
 
 [libraries]
